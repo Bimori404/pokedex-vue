@@ -13,3 +13,5 @@ Este código es una página web que funciona como una Pokédex utilizando Vue.js
   - `methods`: Contiene funciones para obtener datos de Pokémon, ver detalles de un Pokémon, obtener todos los Pokémon y limpiar la lista de Pokémon sugeridos.
   - `watch`: Observa cambios en la búsqueda actual y filtra la lista de Pokémon sugeridos según lo ingresado en el campo de búsqueda.
   - `mounted`: Se ejecuta cuando la instancia Vue se monta en el DOM, utilizada para llamar a las funciones para obtener datos de Pokémon al cargar la página.
+
+- **Interacción HTML-Vue**: Las partes de la interfaz de usuario (HTML) están conectadas con los datos y métodos de Vue.js a través de directivas como `v-model`, `v-if`, `v-for`, y eventos como `@click`.
